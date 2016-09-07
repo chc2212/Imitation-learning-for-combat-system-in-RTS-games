@@ -1,5 +1,11 @@
 #Imitation-learning-for-combat-system-in-RTS-games
-
+Unlike the situation with regard to board games, artificial intelligence (AI) for real-time strategy (RTS) games
+usually suffers from an infinite number of possible future states. Furthermore, it must handle the complexity quickly. This
+constraint makes it difficult to build AI for RTS games with current state-of-the-art intelligent techniques. This research
+proposes the use of imitation learning based on a human player’s replays, which allows the AI to mimic the behaviors.
+During game play, the AI exploits the replay repository to search for the best similar moment from an influence map
+representation. This work focuses on combat in RTS games, considering the spatial configuration and unit types.
+Experimental results show that the proposed AI can defeat well-known competition entries a large percentage of the time
 #Overview of Method
 <img src="https://github.com/chc2212/Imitation-learning-for-combat-system-in-RTS-games/blob/master/pic1.png" width="500">
 #Features
