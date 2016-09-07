@@ -9,5 +9,5 @@
 *	Showed that the proposed approach outperforms competitive entries in StarCraft competitions for combat situations.
 
 #References
-*H.-C. Cho, I.-S. Oh, K.-J. Kim, “Playing real-time strategy games by imitating human players’ micromanagement skills based on spatial analysis,” IEEE Transactions on Computational Intelligence and AI in Games. (SCIE Journal) (Submitted and revision stage)
-*I.-S. Oh, H.-C. Cho and K.-J. Kim, “Imitation learning for combat system in RTS games with application to StarCraft,” IEEE Conference on Computational Intelligence and Games, 2014.
+* H.-C. Cho, I.-S. Oh, K.-J. Kim, “Playing real-time strategy games by imitating human players’ micromanagement skills based on spatial analysis,” IEEE Transactions on Computational Intelligence and AI in Games. (SCIE Journal) (Submitted and revision stage)
+* I.-S. Oh, H.-C. Cho and K.-J. Kim, “Imitation learning for combat system in RTS games with application to StarCraft,” IEEE Conference on Computational Intelligence and Games, 2014.
