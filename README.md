@@ -5,7 +5,7 @@ constraint makes it difficult to build AI for RTS games with current state-of-th
 proposes the use of imitation learning based on a human player’s replays, which allows the AI to mimic the behaviors.
 During game play, the AI exploits the replay repository to search for the best similar moment from an influence map
 representation. This work focuses on combat in RTS games, considering the spatial configuration and unit types.
-Experimental results show that the proposed AI can defeat well-known competition entries a large percentage of the time
+Experimental results show that the proposed AI can defeat well-known competition entries a large percentage of the time.
 #Overview of Method
 <img src="https://github.com/chc2212/Imitation-learning-for-combat-system-in-RTS-games/blob/master/pic1.png" width="500">
 #Features
