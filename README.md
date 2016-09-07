@@ -1,5 +1,5 @@
 #Imitation-learning-for-combat-system-in-RTS-games
-
+![test](https://github.com/chc2212/Imitation-learning-for-combat-system-in-RTS-games/blob/master/pic1.png)
 #Features
 *	A combat system for RTS games by imitating human players’ micromanagement skills based on spatial analysis. 
 *	Case-based reasoning approach to design the system.
