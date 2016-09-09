@@ -15,7 +15,7 @@ Experimental results show that the proposed AI can defeat well-known competition
 *	Showed that the proposed approach outperforms competitive entries in StarCraft competitions for combat situations.
 
 #Screen Captures
-<img src="https://github.com/chc2212/Imitation-learning-for-combat-system-in-RTS-games/blob/master/20160908_222711.gif" width="250">
+<img src="https://github.com/chc2212/Imitation-learning-for-combat-system-in-RTS-games/blob/master/20160908_222711.gif" width="350">
 
 #References
 * H.-C. Cho, I.-S. Oh, K.-J. Kim, “Playing real-time strategy games by imitating human players’ micromanagement skills based on spatial analysis,” IEEE Transactions on Computational Intelligence and AI in Games. (SCIE Journal) (Submitted and revision stage)
