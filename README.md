@@ -18,6 +18,6 @@ Experimental results show that the proposed AI can defeat well-known competition
 <img src="https://github.com/chc2212/Imitation-learning-for-combat-system-in-RTS-games/blob/master/20160908_222711.gif" width="350">
 
 #References
-* [I.-S. Oh, **H.-C. Cho**, and K.-J. Kim, “Playing real-time strategy games by imitating human players’ micromanagement skills based on spatial analysis,” Expert Systems with Applications, vol. 71, pp. 192-205, 2017.](http://www.sciencedirect.com/science/article/pii/S0957417416306613)
+* [I.-S. Oh, **H.-C. Cho**, and K.-J. Kim, “Playing real-time strategy games by imitating human players’ micromanagement skills based on spatial analysis,” Expert Systems with Applications, vol. 71, pp. 192-205, 2016.](http://www.sciencedirect.com/science/article/pii/S0957417416306613)
 * [I.-S. Oh, **H.-C. Cho** and K.-J. Kim, “Imitation learning for combat system in RTS games with application to StarCraft,” IEEE Conference on Computational Intelligence and Games, 2014.](http://cilab.sejong.ac.kr/home/lib/exe/fetch.php?media=public:paper:cig_2014_cho.pdf)
 * K.-J. Kim, **H.-C. Cho** and I.-S. Oh, “System and Method for Generating Artificial Intelligence of Game Character based on Imitation of Game Play Data,” South Korea Patent No. 10-1603681-0000, issued March 2016.
