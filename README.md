@@ -8,6 +8,7 @@ representation. This work focuses on combat in RTS games, considering the spatia
 Experimental results show that the proposed AI can defeat well-known competition entries a large percentage of the time. 
 # Overview of Method
 <img src="https://github.com/chc2212/Imitation-learning-for-combat-system-in-RTS-games/blob/master/pic1.png" width="500">
+
 # Features
 *	A combat system for RTS games by imitating human players’ micromanagement skills based on spatial analysis. 
 *	Case-based reasoning approach to design the system.
